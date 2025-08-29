@@ -130,23 +130,23 @@ record_id,redacted_data_json,is_pii
 
 ## 🔧 Redaction Examples
 
-### Phone Number Redaction
+### Phone Number Masking
 - **Input**: `9876543210`
 - **Output**: `98XXXXXX10`
 
-### Aadhar Number Redaction
+### Aadhar Number Masking
 - **Input**: `1234 5678 9012`
 - **Output**: `XXXXXXXX9012`
 
-### Name Redaction
+### Name Masking
 - **Input**: `John Doe`
 - **Output**: `JXXX DXX`
 
-### Email Redaction
+### Email Masking
 - **Input**: `john.doe@example.com`
 - **Output**: `jXXXe@example.com`
 
-## 🏗️ Project Structure
+## Structure Of Project
 
 ```
 Securing-PII/
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Varikuti Narendra Reddy**
+**Aakarsh Mishra**
 - GitHub: https://github.com/0xaakarshm
 - Email: imaakarsh21@gmail.com
 
