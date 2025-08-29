@@ -109,7 +109,7 @@ docker run -v $(pwd)/data:/app/data pii-detection-tool input.csv
 1. **Create `main.py` for Cloud Functions:**
    ```python
    import functions_framework
-   from detector_varikuti_Narendra_Reddy import process_record
+   from detector_maak import process_record
    import json
 
    @functions_framework.http
