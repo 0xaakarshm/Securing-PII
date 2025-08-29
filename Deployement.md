@@ -144,7 +144,7 @@ sudo apt install python3 python3-pip python3-venv -y
 
 # Clone repository
 git clone https://github.com/0xaakarshm/Securing-PII.git
-cd pii-detection-tool
+cd Securing-PII
 
 # Create virtual environment
 python3 -m venv venv
@@ -170,7 +170,7 @@ sudo systemctl start pii-detection
 
 # Clone repository
 git clone https://github.com/0xaakarshm/Securing-PII.git
-cd pii-detection-tool
+cd Securing-PII
 
 # Create virtual environment
 python -m venv venv
