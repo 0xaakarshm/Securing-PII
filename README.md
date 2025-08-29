@@ -1,4 +1,4 @@
-# Tool for Detection and Masking PII 
+# Tool for Detection and Masking Of PII 
 
 A powerful Python-based tool for identifying and masking Personally Identifiable Information (PII) within CSV datasets. It leverages both individual and combined PII detection techniques to deliver thorough data privacy protection.
 
