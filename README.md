@@ -43,7 +43,7 @@ PII Masking Deployment.pdf
 - **Device Context**: IP addresses and device identifiers
 - **Multi-field Patterns**: Complex PII combinations
 
-## 🛠️ Installation
+## 🛠️ Installation Steps
 
 ### Prerequisites
 - Python 3.7 or higher
